@@ -39,6 +39,7 @@ export default {
   height: 40px;
   line-height: 40px;
   font-size: 18px;
+  background-color: #fff;
 }
 .tab-control-item {
   flex: 1;
